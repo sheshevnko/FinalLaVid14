@@ -1,10 +1,7 @@
 a
 {
 	color: #3e3e3e;
-<<<<<<< HEAD
-=======
 	text-align: center; 
->>>>>>> 13nov
 	text-decoration: none;
 }
 	
@@ -22,18 +19,10 @@ header
 	position: static; 
 	width: 100%; 
 }
-<<<<<<< HEAD
-	
-=======
->>>>>>> 13nov
 
 ul, ol
 {
 	list-style: none;
-<<<<<<< HEAD
-}
-  
-=======
 }	
 
 #inicio
@@ -56,7 +45,6 @@ ul, ol
 	margin: 6em 0 6em 0;
 }
 
->>>>>>> 13nov
 #galeria
 {
 	margin: 0; 
@@ -66,14 +54,8 @@ ul, ol
 	white-space: nowrap;
 }
 		
-<<<<<<< HEAD
-#slide
-{
-	margin: 6em 0 ; 
-=======
 #inicio
 {
->>>>>>> 13nov
 	padding: 2em 0; 
 	text-align: center; 
 }
@@ -91,8 +73,6 @@ ul, ol
 	width: 150px; 
 }
 	
-<<<<<<< HEAD
-=======
 .menu_gal
 {
 	background:#dbdbdb;
@@ -109,7 +89,6 @@ ul, ol
 	width:192px
 }
  
->>>>>>> 13nov
 .nav
 {
 	display:inline-block;
@@ -204,8 +183,6 @@ ul,ol
 	list-style:none
 }
 @media only screen and (max-width: 768px){
-<<<<<<< HEAD
-=======
 .logo
 {
 	float: left; 
@@ -221,7 +198,6 @@ ul,ol
 	width: 100px; 
 }
 
->>>>>>> 13nov
 .nav-mobile
 {
 	display:block
@@ -248,10 +224,7 @@ ul,ol
 .nav-item a 
 {
 	border-bottom:1px solid #151515;
-<<<<<<< HEAD
-=======
 	margin: 0 0 0 10em;
->>>>>>> 13nov
 }
 .nav-item > a
 {
